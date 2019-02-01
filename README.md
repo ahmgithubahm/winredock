@@ -8,7 +8,7 @@ following restoring their previous positions and sizes.
 
 This is quite annoying.
 
-To sove this problem, I've developed a small tool to load window
+To solve this problem, I've developed a small tool to load window
 positions and sizes, write a configuration file and be able to restore
 the application windows to their previous sizes and positions.
 
