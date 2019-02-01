@@ -13,7 +13,7 @@ positions and sizes, write a configuration file and be able to restore
 the application windows to their previous sizes and positions.
 
 It is a *tool* so don't expect to be a production class
-application. (Comments and requess for improvement are welcome,
+application. (Comments and requests for improvement are welcome,
 however.)
 
 ### Not compiling
@@ -26,12 +26,12 @@ executable app.
 There are errors actually in the VS compilation because of some
 template machinery. Also because "using" statement.
 
-I have the "comunity" VS version, so I don't really know if this an
+I have the "community" VS version, so I don't really know if this an
 issue with the code (although it compiles cleanly on Cygwin GCC) or a
 version problem (being too old to allow those constructions.)
 In any case, I don't have time to fix this unless there is a real
 interest: if you want to compile from Windows, file an issue (or
-better, as for a pull request!)
+better, ask for a pull request!)
 
 Go to the `msvs` folder, double click on the solution file (sln) and
 compile whatever you want: Debug, Release.
